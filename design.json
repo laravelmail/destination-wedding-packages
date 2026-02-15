@@ -11,12 +11,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -27,23 +21,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:365px 10px 5px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; line-height: 120%; text-align: center; word-wrap: break-word; font-family: 'Playfair Display',serif; font-size: 32px; font-weight: 400;\"><span style=\"line-height: 28.8px;\"><span style=\"line-height: 28.8px;\"><span style=\"line-height: 28.8px;\"><span style=\"line-height: 28.8px;\"><span style=\"line-height: 28.8px;\"><span style=\"line-height: 28.8px;\"><span style=\"line-height: 28.8px;\"><strong>Destination</strong><br><strong>Wedding Packages</strong></span></span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 50px 10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 140%; margin: 0px;\">Welcome to our exclusive Destination Wedding Packages designed for those seeking unforgettable memories in [Location]</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -53,10 +37,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -65,12 +47,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -86,18 +62,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -107,19 +74,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_1",
@@ -136,19 +96,11 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
-            "url": "/static/templates/destination-wedding-packages/assets/1720094254415-bride-groom-are-canopy-that-says-brides-1.png",
+            "url": "url(assets/1720094254415-bride-groom-are-canopy-that-says-brides-1.png)",
             "fullWidth": false,
             "repeat": false,
             "center": true,
@@ -156,7 +108,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -172,12 +123,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -188,23 +133,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"u-row\" style=\"margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\">\n<div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"padding: 0px;background-color: transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width:600px;\"><tr style=\"background-color: transparent;\"><![endif]-->\n<!--[if (mso)|(IE)]><td align=\"center\" width=\"600\" class=\"v-col-background-color\" style=\"background-color: #e4c7c8;width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\" valign=\"top\"><![endif]-->\n<div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n<div class=\"v-col-background-color\" style=\"background-color: #e4c7c8;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<div class=\"unlayer2be\"><div class=\"unlayer2be\"><span>&nbsp;</span></div></div>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>\n</div>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "320px"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -214,10 +149,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -226,12 +159,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -248,17 +175,9 @@
                 "width": ""
               },
               "padding": "0px",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -268,19 +187,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_2",
@@ -297,17 +209,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -317,7 +221,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -334,12 +237,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -350,23 +247,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:90px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; line-height: 110%; text-align: left; word-wrap: break-word; font-family: 'Playfair Display',serif; font-size: 24px; font-weight: 400;\"><span><span><span><span><strong>Welcome<br>to Sweet Day</strong></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_11\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%; margin: 0px;\">Introducing our exclusive Destination Wedding Packages tailored to meet your dream wedding needs in exotic locations.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -376,10 +264,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -388,12 +274,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -409,18 +289,9 @@
                 "autoWidth": true,
                 "width": "382.98px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -430,7 +301,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -440,12 +310,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -456,23 +320,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/destination-wedding-packages/assets/1719993907501-flower-arch-lake-shore-background-wedding-invitations_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 197.02px;\" title=\"image\" width=\"197.02\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -482,12 +336,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/destination-wedding-packages/assets/1719993907501-flower-arch-lake-shore-background-wedding-invitations_201.png",
+                    "url": "assets/1719993907501-flower-arch-lake-shore-background-wedding-invitations_201.png",
                     "width": 197,
                     "height": "auto"
                   }
@@ -495,12 +347,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_2",
@@ -516,18 +362,9 @@
                 "autoWidth": true,
                 "width": "217.02px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -537,19 +374,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_3",
@@ -566,19 +396,11 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
-            "url": "/static/templates/destination-wedding-packages/assets/1719993831113-Group_201.png",
+            "url": "url(assets/1719993831113-Group_201.png)",
             "fullWidth": false,
             "repeat": false,
             "center": true,
@@ -586,7 +408,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -603,12 +424,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -619,22 +434,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #e7e7e7;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; line-height: 110%; text-align: left; word-wrap: break-word; font-family: 'Playfair Display',serif; font-size: 24px; font-weight: 400;\"><span><strong>Popular Venues</strong></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(231, 231, 231)",
                   "backgroundImage": {
                     "url": "",
@@ -645,10 +452,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -657,12 +462,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -678,18 +477,9 @@
                 "autoWidth": true,
                 "width": "238.98px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -699,7 +489,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -709,12 +498,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -725,22 +508,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #e7e7e7;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%; margin: 0px;\">Our destination wedding packages are now available, offering unique and memorable experiences for couples and guests alike.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(231, 231, 231)",
                   "backgroundImage": {
                     "url": "",
@@ -751,10 +526,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -763,12 +536,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_2",
@@ -784,18 +551,9 @@
                 "autoWidth": true,
                 "width": "361.02px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -805,19 +563,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_4",
@@ -834,17 +585,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -854,7 +597,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -872,12 +614,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -888,23 +624,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 5px 10px 10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/destination-wedding-packages/assets/1719994237091-Rectangle_204.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -914,12 +640,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/destination-wedding-packages/assets/1719994237091-Rectangle_204.png",
+                    "url": "assets/1719994237091-Rectangle_204.png",
                     "width": 185,
                     "height": "auto"
                   }
@@ -928,12 +652,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_2",
@@ -944,23 +662,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 140%; margin: 0px;\">Dear Valued Customer, We are excited to announce our new range of Destination Wedding Packages! Escape the ordinary and embark on a romantic adventure with us.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -970,10 +678,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -982,12 +688,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -1003,18 +703,9 @@
                 "autoWidth": true,
                 "width": "200px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1024,7 +715,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -1034,12 +724,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -1050,23 +734,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 7px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/destination-wedding-packages/assets/1719994306036-Rectangle_202.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 186px;\" title=\"image\" width=\"186\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1076,12 +750,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/destination-wedding-packages/assets/1719994306036-Rectangle_202.png",
+                    "url": "assets/1719994306036-Rectangle_202.png",
                     "width": 186,
                     "height": "auto"
                   }
@@ -1090,12 +762,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_2",
@@ -1106,23 +772,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 140%; margin: 0px;\">We are delighted to present our exclusive Destination Wedding Packages, designed to make your special day unforgettable. Join us as we combine romance, adventure, and relaxation in our beautiful locations.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1132,10 +788,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1144,12 +798,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_2",
@@ -1165,18 +813,9 @@
                 "autoWidth": true,
                 "width": "200px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1186,7 +825,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -1196,12 +834,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -1212,23 +844,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 5px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/destination-wedding-packages/assets/1719994311744-Rectangle_203.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1238,12 +860,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/destination-wedding-packages/assets/1719994311744-Rectangle_203.png",
+                    "url": "assets/1719994311744-Rectangle_203.png",
                     "width": 185,
                     "height": "auto"
                   }
@@ -1252,12 +872,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_2",
@@ -1268,23 +882,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 40px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 140%; margin: 0px;\">Introducing our exclusive Destination Wedding Packages, designed to make your special day unforgettable. Book now and experience the magic!</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1294,10 +898,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1306,12 +908,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_3",
@@ -1327,18 +923,9 @@
                 "autoWidth": true,
                 "width": "200px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1348,19 +935,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_5",
@@ -1377,17 +957,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -1397,7 +969,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -1415,12 +986,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -1431,22 +996,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #e7e7e7;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 1px dashed #000000;border-left: 1px dashed #000000;border-right: 1px dashed #000000;border-bottom: 1px dashed #000000;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_6\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%; text-align: center; margin: 0px;\"><span style=\"background-color: #ffffff; line-height: 19.6px; font-family: Raleway, sans-serif;\"><strong><span style=\"font-size: 24px; line-height: 33.6px; background-color: #ffffff;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 24px; line-height: 33.6px; background-color: #ffffff;\"><span style=\"font-size: 24px; line-height: 33.6px; background-color: #ffffff;\">Basic&nbsp; &nbsp; &nbsp; </span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_7\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #000000; line-height: 180%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp;</span> This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp;</span> This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-size: 20px; line-height: 36px; color: #000000; font-family: Montserrat, sans-serif;\"><strong>$200&nbsp; </strong><span style=\"text-decoration: line-through; line-height: 25.2px; color: #e03e2d;\"><span style=\"font-size: 16px; line-height: 28.8px;\">$250</span></span></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_9fc44c42.bin\" style=\"height:37px; v-text-anchor:middle; width:162px;\" arcsize=\"67.5%\"  stroke=\"f\" fillcolor=\"#000000\"><w:anchorlock/><center style=\"color:#FFFFFF;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_9fc44c42.bin\" style=\"box-sizing: border-box; display: inline-block; text-decoration: none; text-size-adjust: none; text-align: center; color: rgb(255, 255, 255); background: rgb(0, 0, 0); border-radius: 25px; width: 64%; max-width: 100%; word-break: break-word; overflow-wrap: break-word; font-size: 14px; line-height: inherit;\" target=\"_blank\"><span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Buy Now</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(231, 231, 231)",
                   "backgroundImage": {
                     "url": "",
@@ -1457,10 +1014,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1469,12 +1024,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -1490,18 +1039,9 @@
                 "autoWidth": true,
                 "width": "274.02px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1511,7 +1051,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -1521,12 +1060,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -1537,23 +1070,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/destination-wedding-packages/assets/1676455414092-bg.jpg\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 0%;max-width: 0px;\" title=\"image\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1563,12 +1086,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/destination-wedding-packages/assets/1676455414092-bg.jpg",
+                    "url": "assets/1676455414092-bg.jpg",
                     "width": "auto",
                     "height": "auto"
                   }
@@ -1576,12 +1097,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_2",
@@ -1597,18 +1112,9 @@
                 "autoWidth": true,
                 "width": "49.98px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1618,7 +1124,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -1628,12 +1133,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -1644,22 +1143,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #e7e7e7;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 1px dashed #000000;border-left: 1px dashed #000000;border-right: 1px dashed #000000;border-bottom: 1px dashed #000000;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_8\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%; text-align: center; margin: 0px;\"><span style=\"line-height: 19.6px; background-color: #ffffff; font-family: Raleway, sans-serif;\"><strong><span style=\"font-size: 24px; line-height: 33.6px; background-color: #ffffff;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"line-height: 33.6px;\"> &nbsp; Premium </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></strong></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_9\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 180%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a </span>&nbsp;This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"></p>\n<p style=\"font-size: 14px; line-height: 180%; margin: 0px;\"><span style=\"font-size: 20px; line-height: 36px; color: #000000; font-family: Montserrat, sans-serif;\"><strong>$300.00 &nbsp;</strong><span style=\"text-decoration: line-through; line-height: 28.8px; font-size: 16px; color: #e03e2d;\">$380</span></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_9fc44c42.bin\" style=\"height:37px; v-text-anchor:middle; width:163px;\" arcsize=\"67.5%\"  stroke=\"f\" fillcolor=\"#000000\"><w:anchorlock/><center style=\"color:#FFFFFF;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_9fc44c42.bin\" style=\"box-sizing: border-box; display: inline-block; text-decoration: none; text-size-adjust: none; text-align: center; color: rgb(255, 255, 255); background: rgb(0, 0, 0); border-radius: 25px; width: 64%; max-width: 100%; word-break: break-word; overflow-wrap: break-word; font-size: 14px; line-height: inherit;\" target=\"_blank\"><span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Buy Now</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(231, 231, 231)",
                   "backgroundImage": {
                     "url": "",
@@ -1670,10 +1161,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1682,12 +1171,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_3",
@@ -1703,18 +1186,9 @@
                 "autoWidth": true,
                 "width": "276px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1724,19 +1198,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_6",
@@ -1753,17 +1220,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -1773,7 +1232,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -1789,12 +1247,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -1805,23 +1257,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:167px;\">\n<!--[if (mso)|(IE)]><table width=\"167\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:167px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" style=\"color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;\" target=\"_blank\" title=\"Facebook\"><img alt=\"Facebook\" src=\"/static/templates/destination-wedding-packages/assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_c10814bb.bin\" style=\"color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;\" target=\"_blank\" title=\"LinkedIn\"><img alt=\"LinkedIn\" src=\"/static/templates/destination-wedding-packages/assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" style=\"color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;\" target=\"_blank\" title=\"Instagram\"><img alt=\"Instagram\" src=\"/static/templates/destination-wedding-packages/assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" style=\"color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;\" target=\"_blank\" title=\"X\"><img alt=\"X\" src=\"/static/templates/destination-wedding-packages/assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1831,12 +1273,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/destination-wedding-packages/assets/facebook.png",
+                    "url": "assets/facebook.png",
                     "width": 32,
                     "height": "auto"
                   }
@@ -1845,12 +1285,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_2",
@@ -1861,23 +1295,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_10\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 100px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 170%; margin: 0px;\"><a href=\"{{unsubscribe_url}}\">UNSUBSCRIBE</a> &nbsp; | &nbsp; <a href=\"{{privacy_url}}\">PRIVACY POLICY</a> &nbsp; | &nbsp; <a href=\"{{webview_url}}\">WEB</a></p>\n<p style=\"font-size: 14px; line-height: 170%; margin: 0px;\"></p>\n<p style=\"font-size: 14px; line-height: 170%; margin: 0px;\">Experience the magic of your special day at our exotic destination wedding packages, offering unforgettable memories and personalized services.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1887,10 +1311,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1900,12 +1322,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_3",
@@ -1916,23 +1332,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1942,10 +1348,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1954,12 +1358,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -1975,18 +1373,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1996,19 +1385,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_7",
@@ -2025,17 +1407,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -2045,7 +1419,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -2054,11 +1427,6 @@
     ],
     "values": {
       "color": "rgb(0, 0, 0)",
-      "headingType": "",
-      "fontFamily": {},
-      "fontSize": "",
-      "textAlign": "",
-      "lineHeight": "",
       "displayCondition": null,
       "_meta": {
         "htmlID": "u_body",
@@ -2075,13 +1443,7 @@
         "width": ""
       },
       "padding": "0px",
-      "border": {
-        "borderBottom": "",
-        "borderLeft": "",
-        "borderRight": "",
-        "borderTop": ""
-      },
-      "borderRadius": "",
+      "border": {},
       "calculatedWidth": null,
       "calculatedHeight": null,
       "textColor": "rgb(0, 0, 0)",
@@ -2095,7 +1457,6 @@
       },
       "contentWidth": "500px",
       "contentAlign": "center",
-      "preheaderText": "",
       "columns": false,
       "hideDesktop": false
     }
